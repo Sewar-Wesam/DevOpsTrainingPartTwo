@@ -39,6 +39,7 @@ b. AWS Lambda: it is a computing service provided by AWS. It is a serverless ser
 For example, you have a website that allows you to upload photos, when you upload that photo, then you need to resize it. here, it is very clear that we will use lambda to resize these photos at the uploading time then stop.     
 
 2. Storage Services: we need a place to store the data, user profiles, ... etc, so, when we are talking about storage service in AWS, we should talk about the following:
+   
    a. Amazon S3 (Simple Storage Service) : it is just like an online, unlimited online filling cabinet.
    
    b. Amazon EBS (Ellastic Block Store)  : it likes a hard drive attached to the EC2 instances. so the Amazon EBS it is the best choice for the applications that need high storage space.
