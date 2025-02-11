@@ -26,5 +26,7 @@ AWS is an example on a cloud providers. it provides a very wide types of resourc
 
 #### AWS Cloud Architecture:   
 
-  
+##### Key Components of AWS Architecture:  
+
+
   
