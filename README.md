@@ -14,3 +14,7 @@ There are three main cloud services that differ in the level of control, managem
 1. IaaS: Infrastructure as a Service --> 
 2. PaaS: Platform as a Service
 3. SaaS: Software as a Service 
+
+#### ==> Let we walk through each type and disscuss some points:       
+* IaaS: Infrastructure as a Service: Here, you are renting the resources, but the control of the software and run the application still for you. The most important property in this type of services, that you dont have to suffer with the hassles of maintaining the hardware resources.
+IaaS enables you to add or remove resources depending on your needs, so it provides a high scalability.
