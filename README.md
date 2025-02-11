@@ -54,11 +54,12 @@ b. Amazon DynamoDB : it is used for highly traffic applications. provieds quick 
 
 4. Networking: we need networking to ensure that all the resource are securely connected to each others, and the services also connected with the users. As a Networking component in AWS it is very importang to manage security and access control.
 
-   a. Amazon VPC: (Virtual Private Cloud) : it creates a secure and private network , and you can control for example if you need to connect with the internet or keep offline. so when you keep your network private it looks like that you are lock your appartment door and isolate it from the outer bigger buildding.
+   a. Amazon VPC: (Virtual Private Cloud) : it creates a secure and private network , and you can control for example if you need to connect with the internet or keep offline. so when you keep your network private it looks like that you are lock your appartment door and isolate it from the outer bigger buildding. So it keeps your network secure.
+
 
    b. AWS Cloudfront: AWS cloudfront is the CDN (Content Delivery Network) that speeds up the process of retrieving data and enhance the user experience so achiveing higher performance. So, it cashes the data near of users.
 
-5. Security and Identity: AWS takes the security seriously. using tools like: AWS Identity and Access Managment (AWS IAM). and the AWS Shield.
+6. Security and Identity: AWS takes the security seriously. using tools like: AWS Identity and Access Managment (AWS IAM). and the AWS Shield.
 
    a. AWS IAM: it is used to create and giving permisions. so only the trusted people have the access to your resources.
 
