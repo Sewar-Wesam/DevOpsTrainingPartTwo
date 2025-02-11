@@ -40,6 +40,7 @@ For example, you have a website that allows you to upload photos, when you uploa
 
 2. Storage Services: we need a place to store the data, user profiles, ... etc, so, when we are talking about storage service in AWS, we should talk about the following:
    a. Amazon S3 (Simple Storage Service) : it is just like an online, unlimited online filling cabinet.
+   
    b. Amazon EBS (Ellastic Block Store)  : it likes a hard drive attached to the EC2 instances. so the Amazon EBS it is the best choice for the applications that need high storage space.
     
 
