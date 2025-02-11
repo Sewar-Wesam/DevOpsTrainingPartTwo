@@ -46,6 +46,7 @@ For example, you have a website that allows you to upload photos, when you uploa
 
 3. Databases:
    many applications requires to store data in a structured way, so AWS provides the following options :
+   
 a. Amazon RDS (Relational Database Service) : For example, store client records in a structured way. 
 
 b. Amazon DynamoDB : it is used for highly traffic applications. provieds quick access to data.   
