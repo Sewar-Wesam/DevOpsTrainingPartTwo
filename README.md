@@ -38,11 +38,20 @@ b. AWS Lambda: it is a computing service provided by AWS. It is a serverless ser
 ==> Usually, when you run your code, then you need a server, but with lambda you dont have to set up or maintain a server, because AWS does this for you.  lambda is the perfect choice for the event-driven tasks. Event-Drive  tasks are : (If something happens then the lambda runs).    
 For example, you have a website that allows you to upload photos, when you upload that photo, then you need to resize it. here, it is very clear that we will use lambda to resize these photos at the uploading time then stop.     
 
-2. Storage Services: we need a place to store the data, user profiles, ... etc, so, when we are talking about storage service in AWS, we should talk about the following:
+2. Storage Services: we need a place to store the data, user profiles, ... etc, so, when we are talking about storage service in AWS, we should talk about the following different options:
    
    a. Amazon S3 (Simple Storage Service) : it is just like an online, unlimited online filling cabinet.
    
    b. Amazon EBS (Ellastic Block Store)  : it likes a hard drive attached to the EC2 instances. so the Amazon EBS it is the best choice for the applications that need high storage space.
+
+3. Databases:
+   many applications requires to store data in a structured way, so AWS provides the following options :
+a. Amazon RDS (Relational Database Service) : For example, store client records in a structured way. 
+
+b. Amazon DynamoDB : it is used for highly traffic applications. provieds quick access to data.   
+
+
+
     
 
 
