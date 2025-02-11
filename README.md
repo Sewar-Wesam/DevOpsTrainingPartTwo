@@ -63,14 +63,21 @@ b. Amazon DynamoDB : it is used for highly traffic applications. provieds quick 
 
    a. AWS IAM: it is used to create and giving permisions. so only the trusted people have the access to your resources.
 
-   b. AWS Shield: it is for people who are interested to be protected from the DDos (Distributed Denial of service attacks). So, keeping your site up even at the high traffic situations.
+   b. AWS Shield: it is for people who are interested to be protected from the DDos (Distributed Denial of service attacks). So, keeping your site up even at the high traffic situations. 
 
 
    =====================================================
 
    Shared responsibility model:
 
-   
+   In AWS context, when we are talking about the Shared Responsibility Model, then we can talk about two parts:
+
+###### * Security of the cloud   (AWS Job)
+
+
+###### * Security in the cloud   (Your Job)
+
+
 
    
     
