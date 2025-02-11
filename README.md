@@ -72,10 +72,24 @@ b. Amazon DynamoDB : it is used for highly traffic applications. provieds quick 
 
    In AWS context, when we are talking about the Shared Responsibility Model, then we can talk about two parts:
 
-###### * Security of the cloud   (AWS Job)
+###### * Security of the cloud   (AWS Job) 
+
+AWS is responsible for the following security tasks:     
+- Data centers security
+- Network security
+- Hardware and Software maintainance
 
 
-###### * Security in the cloud   (Your Job)
+
+###### * Security in the cloud   (Your Job)   
+
+Here, is my role (Sewar Role Hhhhhh), and it contains the following tasks:  
+
+- Data Protection
+- IAM (Identity and Access Managment)
+- Configuring security groups
+- Application security, because AWS can not know your code, (the source code of the application)
+- Regular Audits and compliance. 
 
 
 
