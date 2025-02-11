@@ -28,8 +28,10 @@ AWS is an example on a cloud providers. it provides a very wide types of resourc
 
 ##### Key Components of AWS Architecture:  
 1. Compute services: this is the processing power of the cloud-based applications. to process the data, run the code and handle the users requests.
-   when we are talking about Compute services in AWS, then we had to disscuss the following : 
-a. EC2 (Elastic Compute Cloud) : it is the main engine that run your application. EC2 instances are virtual servers. You can specify and customize your own EC2 instance to suit your application need. when you customize the EC2 instance, then you are determine the amount of memory, CPUs, and the storage space.
+   when we are talking about Compute services in AWS, then we had to disscuss the following :
+   
+a. EC2 (Elastic Compute Cloud) : it is the main engine that run your application. EC2 instances are virtual servers. You can specify and customize your own EC2 instance to suit your application need. when you customize the EC2 instance, then you are determine the amount of memory, CPUs, and the storage space.   
+
 b. AWS Lambda: it is a computing service provided by AWS. It is a serverless service, so you dont have to configure the server because the provider does this for you. it is called the star of the serverless services because it is very powerfull and popular.
 
 
