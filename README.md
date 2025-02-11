@@ -19,6 +19,6 @@ There are three main cloud services that differ in the level of control, managem
 * IaaS: Infrastructure as a Service: Here, you are renting the resources, but the control of the software and run the application still for you. The most important property in this type of services, that you dont have to suffer with the hassles of maintaining the hardware resources.
 IaaS enables you to add or remove resources depending on your needs, so it provides a high scalability.
 * PaaS: Platform as a Service: Here, you focus on your code, or your application. and the provider automatically maintain, setup and manage the infrastructure, OS and the network resources. An Example on PaaS: AWS Elastic Beanstalk sets up and maintain the server configurations, all you need to do is to run your application and focus on your own code.   
-* SaaS: Software as a Service: SaaS is a fully managed software applications hosted by the provider and accessible via internet. Examples on this type of cloud services are the Gmail, Dropbox, and the microsoft 365.
+* SaaS: Software as a Service: SaaS is a fully managed software applications hosted by the provider and accessible via internet. Examples on this type of cloud services are the Gmail, Dropbox, and the microsoft 365. You simply log in and start using the service immediatly without installation, updates, or maintinance. Since the provider manage the updates, then you always have the latest features. 
   
   
